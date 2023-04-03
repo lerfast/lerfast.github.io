@@ -116,7 +116,7 @@ Run this commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/lerfast/my-new-blog.git
+  git clone https://github.com/lerfast/lerfast.github.io.git
 ```
 
 ### Install
@@ -152,9 +152,10 @@ Comming soon!!!
 
 👤 Luis Emilio Rojas
 
-- GitHub: [@githubhandle](https://github.com/lerfast)
+- GitHub: [@githublerfast](https://github.com/lerfast)
 - Twitter: [@twitterhandle](https://twitter.com/lerfast)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/luis-emilio-rojas-rojas-6ba90a8a/)
+- GitHub online page:[Github-page](https://lerfast.github.io) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
