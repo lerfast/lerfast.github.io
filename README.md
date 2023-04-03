@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="./vectors/luis-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>My new Blog</b></h3>
+  <h3><b>My Postfolio Page</b></h3>
 
 </div>
 
