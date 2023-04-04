@@ -749,6 +749,11 @@
   margin: 0 auto;
 }
 
+label {
+  margin: 0 auto;
+  width: 100%;
+}
+
 .about {
   background-color: #ffff;
   padding-inline: 24px;
@@ -922,8 +927,6 @@
     background-position: center;
   }
 
-  padding-inline: 350px;
-
   .languages-list {
     flex-direction: row;
   }
@@ -1075,6 +1078,8 @@
   .form textarea {
     width: 447px;
   }
-}
 
-margin-left: -263px;
+  label {
+    margin: 0 auto;
+  }
+}
